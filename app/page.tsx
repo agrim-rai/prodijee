@@ -2,7 +2,6 @@ export default function Home() {
   return (
     <>
       <head>
-        <meta name="google-site-verification" content="_18VqbYE9C81BfwGfOZlinxsrZLcXZTk87so3e6Yevo" />
         <title>JEE Mains 2025 Marks vs Percentile - Accurate Predictor</title>
         <meta name="description" content="Check JEE Mains 2025 marks vs percentile chart. Get your predicted percentile and rank instantly. Trusted by 25K+ students." />
         <meta name="keywords" content="JEE Mains 2025, marks vs percentile, JEE percentile predictor, response sheet analysis, JEE score vs rank, JEE marks to percentile" />
